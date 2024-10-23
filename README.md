@@ -4,7 +4,7 @@ I'm Berke, a graduate computer engineer specializing in native iOS development a
 Below, you can check out my portfolios, and learn about the programming languages and tools I am familiar with.
 
 ### 📱App Portfolio: [https://berkeparildar.github.io/Apps/](https://berkeparildar.github.io/Apps/)
-### 🕹️Game Portfolio: [https://berkeparildar.github.io/Games/](https://berkeparildar.github.io/Games/)
+### 🕹️Game Portfolio: [https://berkeparildar.github.io/games/](https://berkeparildar.github.io/games/)
 
 ### Programming languages I use: 
 <div>
